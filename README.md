@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/f7821a15-5fad-4561-8bcf-0d7f190f0e97
 services:
   - hostname: autobumpr
     type: nodejs@20
-    buildFromGit: https://github.com/krishnassh/autobumpr-zerops
+    buildFromGit: https://github.com/aiamyou/autobumper
     envSecrets:
       DISCORD_TOKEN_1: MTI5NDQwMzgwODMwMjIwMjg5MAjfwhkfe214kj2
       BUMP_CHANNEL_1: "837841234981489"
